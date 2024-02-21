@@ -1,0 +1,4 @@
+# don't make users commit this
+libraries
+# this is for macs
+.DS_Store
